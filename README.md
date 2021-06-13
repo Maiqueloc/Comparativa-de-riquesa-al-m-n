@@ -1,0 +1,2 @@
+# Comparativa-de-riquesa-al-m-n
+Es tracta d’un dashboard que representa diferents aspectes macro-econòmics, demogràfics i socio-sanitaris sobre tots els països del món, agrupats per continents i regions. D’aquesta manera la visualització interactiva permet navegar per qualsevol nivell d’agregació en l’eix geografia ( País -> Regió -> Continent ) i en l’eix temporal ( anys des de 1971 fins a 2019 ).
